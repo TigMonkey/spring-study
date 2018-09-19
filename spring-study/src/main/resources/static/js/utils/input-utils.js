@@ -2,7 +2,7 @@
  * input-utils.js
  */
 
-var checkBox_utils = {
+var CheckBox_utils = {
 		
 	isChecked : function (event){
 		return $(event).is(":checked");
